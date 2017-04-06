@@ -1,0 +1,1 @@
+https://developer.unboundid.com/6.0.0.1/broker/api/oauth2/grant-types/
